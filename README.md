@@ -27,6 +27,7 @@ Tenemos los archivos de JupyterNotebook con los ejercicios de las lecciones sigu
 - lección 3: ETL III - Transformación II - Clases y funciones de limpieza
 - lección 4: ETL IV - Carga I - Creación BBDD e inserción de datos
 - lección 5: ETL V - Carga II - Clases y Funciones BBDD e inseción
+
 Además podemos encontrar una carpeta correspondiente a la lección 6 - Ejecutable - Pipeline ETL, donde encontraremos los archivos correspondientes a esta lección:
 - main.py: el ejecutable del pipeline
 - soporte.py: con las clases definidas para el ejecutable
