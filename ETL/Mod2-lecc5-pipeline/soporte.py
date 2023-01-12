@@ -4,6 +4,7 @@ import requests
 import pandas as pd
 import numpy as np
 import mysql.connector
+import ast
 
 
 # Clase de extracción de datos de 7timer y union de df
@@ -127,9 +128,4 @@ class Bbdd:
             print("SQLSTATE", err.sqlstate)
             print("Message", err.msg)
 
-    def insertar_datos(self, query, df):
-        self.df = df
-        self.query = query
-        for indice, fila in self.df.iterrows(): # itreamos por el dataframe.
-            self.crear_insertar_tabla(self.query)
-        print("Ya estan los datos insertados en tu tabla")
+    
