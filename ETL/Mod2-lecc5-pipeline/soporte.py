@@ -4,6 +4,7 @@ import requests
 import pandas as pd
 import numpy as np
 import mysql.connector
+import ast
 
 
 # Clase de extracción de datos de 7timer y union de df
