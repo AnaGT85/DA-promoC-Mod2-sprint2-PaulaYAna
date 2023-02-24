@@ -21,7 +21,7 @@ Tenemos los archivos de JupyterNotebook con los ejercicios de las lecciones sigu
 - lección 2: Limpieza II - Strings
 - lección 3: Limpieza III - Valores extremos (outliers)
 - lección 4: Limpieza IV - Valores nulos 
-- lección 5: Limpieza V - Valores nulos con Sklearn
+- lección 5: Limpieza V - Valores nulos con libreria Sklearn
 
 ### En la carpeta de ELT:
 
